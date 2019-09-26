@@ -1,0 +1,3 @@
+1、运行Git-2.21.0-64-bit.exe
+2、运行SourceTreeSetup_1.6.5.exe
+3、点击文件->注册->将sourcetree.license导入
